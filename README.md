@@ -1,8 +1,6 @@
 # Aspose.JMAP FOSS for TypeScript
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![npm version](https://img.shields.io/npm/v/aspose-jmap-foss-ts.svg)](https://www.npmjs.com/package/aspose-jmap-foss-ts) [![Contributors](https://img.shields.io/github/contributors/aspose-email-foss/Aspose.JMAP-FOSS-for-TypeScript.svg)](https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-TypeScript/graphs/contributors)
-
-[![Aspose.JMAP FOSS for TypeScript](https://products.aspose.org/media/jmap/typescript/banner-readme.png)](https://products.aspose.org/jmap/typescript/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![Contributors](https://img.shields.io/github/contributors/aspose-email-foss/Aspose.JMAP-FOSS-for-TypeScript.svg)](https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-TypeScript/graphs/contributors)
 
 Aspose.JMAP FOSS for TypeScript is a free, open source JMAP client library with first-class type
 definitions — for talking to a [JMAP](https://jmap.io) mail server over HTTP:
@@ -170,16 +168,10 @@ model raw method calls for `sendRequest`. Errors surface as `JmapNetworkError` (
 `JmapProtocolError` (a JMAP method-level error); per-item `Set` failures are returned as data on
 the result object rather than thrown.
 
-The full protocol/API reference, rendered from the same specs that drive generation, is
-[`docs/api-reference.md`](../../docs/api-reference.md) at the repository root.
+The protocol/API reference is generated from the same specifications that drive this library.
 
 ## Documentation & Resources
 
-- **[Getting started guide](https://docs.aspose.org/jmap/typescript/)** — installation and walkthroughs.
-- **[API reference](https://reference.aspose.org/jmap/typescript/)** — browsable reference for the public types.
-- **[How-to guides & FAQ](https://kb.aspose.org/jmap/typescript/)** — task-focused answers.
-- **[Protocol/API reference](../../docs/api-reference.md)** — the in-repo reference rendered from the specs.
-- **[Changelog](../../CHANGELOG.md)**, **[Contributing guide](../../CONTRIBUTING.md)**, **[Security policy](../../SECURITY.md)**.
 - Found a bug or have a feature request? [Open an issue](https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-TypeScript/issues) on GitHub.
 
 ## Scope and Limitations
