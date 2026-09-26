@@ -1,0 +1,33 @@
+{
+  "name": "aspose-jmap-foss-ts",
+  "version": "0.1.0",
+  "description": "Open-source JMAP (RFC 8620 Core / RFC 8621 Mail + EmailSubmission) client library with an Aspose.Email-style API.",
+  "main": "dist/src/index.js",
+  "types": "dist/src/index.d.ts",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT",
+  "author": "Aspose <jmap@aspose.com>",
+  "homepage": "https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-TypeScript#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-TypeScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aspose-email-foss/Aspose.JMAP-FOSS-for-TypeScript/issues"
+  },
+  "keywords": ["jmap", "rfc8620", "rfc8621", "email", "mail", "client"],
+  "files": [
+    "dist/src"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc && node --test dist/test",
+    "prepublishOnly": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "@types/node": "^20.0.0"
+  }
+}
